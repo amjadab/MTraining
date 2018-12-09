@@ -1,0 +1,10 @@
+Requirements:
+
+Implement a calculator service to add, subtract and FFT
+
+1) Send a message between 2 processes
+2) Use REST to for the communication
+3) Format the message using protBuf
+4) The client is written in Python
+5) The server is in c++
+
